@@ -10,9 +10,7 @@ Vless & Vmess:
 
 **Risk of account blocking for abuse!**
 
-**Risk of account blocking for abuse!**
-
-**Risk of account blocking for abuse!**
+**帐户被滥用的风险！!**
 
 ![](show.png)
 
