@@ -16,6 +16,9 @@ Vless & Vmess:
 
 ![](show.png)
 
+你的Vless和Vmess二维码访问地址如下：
+https://[APP_Name].herokuapp.com/[Share_Path]/index.html
+
 ## Heroku部署问题
 
 如果遇到：
